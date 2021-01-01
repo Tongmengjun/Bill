@@ -27,6 +27,14 @@ JavaSE项目一本糊涂帐,连接mysql数据库,可以进行消费记账，查�
 
 
 
+![image](https://github.com/Tongmengjun/Bill/blob/main/%E8%AF%B4%E6%98%8E%E5%9B%BE%E7%89%87/%E6%9C%88%E6%B6%88%E8%B4%B9%E6%8A%A5%E8%A1%A8.png)
+
+
+
+月消费报表，每个月的消费柱状图
+
+
+
 设置，设置每个月的预算及数据库的路径
 
 
