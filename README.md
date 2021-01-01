@@ -10,6 +10,13 @@ JavaSE项目一本糊涂帐,连接mysql数据库,可以进行消费记账，查�
 
 
 
+![image](https://github.com/Tongmengjun/Bill/blob/main/%E8%AF%B4%E6%98%8E%E5%9B%BE%E7%89%87/%E6%B6%88%E8%B4%B9%E5%88%86%E7%B1%BB.png)
+
+
+
+消费分类，可以对消费进行分门别类，
+
+
 ![image](https://github.com/Tongmengjun/Bill/blob/main/%E8%AF%B4%E6%98%8E%E5%9B%BE%E7%89%87/%E5%A4%87%E4%BB%BD.png)
 
 
