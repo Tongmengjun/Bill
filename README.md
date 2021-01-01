@@ -14,3 +14,9 @@ JavaSE项目一本糊涂帐,连接mysql数据库,可以进行消费记账，查�
 
 
 备份面板，可以进行消费备份
+
+
+![image](https://github.com/Tongmengjun/Bill/blob/main/%E8%AF%B4%E6%98%8E%E5%9B%BE%E7%89%87/%E6%81%A2%E5%A4%8D.png)
+
+
+恢复面板，可以进行备份内容的恢复
